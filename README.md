@@ -10,7 +10,7 @@ The server side app can either make calls to ReelDx directly, or supply the JWT 
 
 [View the code to see how it works](https://github.com/ReelDx/app-jwt-generator/blob/master/generator.rb)
 
-The same idea can be implemented in any modern web language using a JWT library. See a list of libraries for your platform [here](http://jwt.io/#libraries).
+The same idea can be implemented in any programming language using a JWT library. See a list of libraries in various languages [here](http://jwt.io/#libraries).
 
 ## Usage
 
